@@ -27,6 +27,8 @@ To install `sourcetree` in CLI: `$ ln -s /Applications/SourceTree.app/Contents/R
 
 - Mac Key Forwarded: http://milgra.com/mac-media-key-forwarder.html
   - Media Keys to prefer Spotify over iTunes
+  
+- Charles Proxy: https://www.charlesproxy.com/
 
 
 # Terminal
