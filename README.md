@@ -25,6 +25,9 @@ To install `sourcetree` in CLI: `$ ln -s /Applications/SourceTree.app/Contents/R
   
 - Trello: https://trello.com/en-AU
 
+- Mac Key Forwarded: http://milgra.com/mac-media-key-forwarder.html
+  - Media Keys to prefer Spotify over iTunes
+
 
 # Terminal
 - https://www.iterm2.com/
