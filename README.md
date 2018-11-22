@@ -2,9 +2,10 @@
 Configuration &amp; Tools for New OSX Computer
 
 # Command Line Tools
-https://github.com/mptre/pick
-
-CLI tool to select from a list from `stdin`.
+- https://github.com/mptre/pick
+-- CLI tool to select from a list from `stdin`.
+- https://github.com/rbenv/rbenv
+- https://bundler.io/
 
 # Apps
 - SourceTree: https://www.sourcetreeapp.com/
@@ -46,4 +47,6 @@ To install `sourcetree` in CLI: `$ ln -s /Applications/SourceTree.app/Contents/R
 - Tab Ahead
 - Tab Bundler
 - uBlock Origin
-- 
+
+# References
+- https://github.com/sindresorhus/awesome
