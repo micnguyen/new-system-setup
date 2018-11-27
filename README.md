@@ -44,6 +44,7 @@ To install `sourcetree` in CLI: `$ ln -s /Applications/SourceTree.app/Contents/R
 ## Settigs
 ## Plugins
 - SOmehting
+https://github.com/takasek/XCJumpToTests
 
 # Chrome Extensions
 - CSS Reloader
