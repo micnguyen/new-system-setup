@@ -30,6 +30,9 @@ To install `sourcetree` in CLI: `$ ln -s /Applications/SourceTree.app/Contents/R
   
 - Charles Proxy: https://www.charlesproxy.com/
 
+- MacMediaKeyForwarder: https://github.com/milgra/macmediakeyforwarder
+Forwards the Mac pause/play keyboard to work always with Spotify
+
 
 # Terminal
 - https://www.iterm2.com/
