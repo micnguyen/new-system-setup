@@ -56,5 +56,8 @@ https://github.com/takasek/XCJumpToTests
 - Tab Bundler
 - uBlock Origin
 
+# VSCode
+- https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync : https://gist.github.com/micnguyen/f79b553c3e77663ea6e5727fcae3e717
+
 # References
 - https://github.com/sindresorhus/awesome
