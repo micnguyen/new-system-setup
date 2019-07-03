@@ -61,3 +61,5 @@ https://github.com/takasek/XCJumpToTests
 
 # References
 - https://github.com/sindresorhus/awesome
+
+https://github.com/mathiasbynens/dotfiles/blob/master/.macos
