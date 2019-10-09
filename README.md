@@ -63,3 +63,6 @@ https://github.com/takasek/XCJumpToTests
 - https://github.com/sindresorhus/awesome
 
 https://github.com/mathiasbynens/dotfiles/blob/master/.macos
+
+# IntelliJ Settings
+https://github.com/micnguyen/intellij-settings-sync
